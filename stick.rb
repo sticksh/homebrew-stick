@@ -2,7 +2,7 @@ class Stick < Formula
   desc "stick.sh command line client"
   homepage "http://stick.sh"
   url "http://releases.stick.sh:8080/stick-0.1.0.tar.gz"
-  sha256 "c36ab28e0cae11c9bc26c1108b8d2ba9c0add314d135c85706f4fc8225547d94"
+  sha256 "e64034d0ec1704ed8830734c4c7a957594056a74578c3f09a8988c1f555ba302"
   
   depends_on "unison"
 
